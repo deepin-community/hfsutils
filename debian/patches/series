@@ -1,0 +1,4 @@
+0001-Fix-build-system-issues.patch
+0002-Fix-FTBFS-with-gcc-3.4.patch
+0003-Add-support-for-files-larger-than-2GB.patch
+0004-Add-DUSE_INTERP_RESULT-to-DEFINES-in-Makefile.in.patch
